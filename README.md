@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Rumana20
-- 👀 I’m interested in Problem Solving
-- 🌱 I’m currently learning Data Science
-- 💞️ I’m looking to collaborate on beginner level Data Science projects
+- 👀 into in Problem Solving
+- 🌱 currently learning Data Science
+- 💞️ looking to collaborate on Data Science projects
 - 📫 How to reach me - Srumana356@gmail.com
 
 <!---
